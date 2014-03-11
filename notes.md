@@ -6,3 +6,4 @@
 2014-02-27T07:33:00 - Minor doc updates: linking to article on quantization (uhd)
 2014-02-27T22:32:00 - Implementing approach from a new paper read last night (uhd)
 2014-02-27T03:36:00 - Late-night bugfix on financial RL environment (uhd)
+2014-03-11T05:52:00 - Implementing approach from a new paper read last night (uhd)
