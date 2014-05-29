@@ -10,3 +10,4 @@
 2014-03-11T01:40:00 - Late-night bugfix on financial RL environment (uhd)
 2014-03-11T22:41:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2014-03-11T23:39:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
+2014-05-29T18:00:00 - Refactor for clarity, might break a few tests though (uhd)
