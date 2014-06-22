@@ -12,3 +12,4 @@
 2014-03-11T23:39:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2014-05-29T18:00:00 - Refactor for clarity, might break a few tests though (uhd)
 2014-06-23T05:45:00 - Minor doc updates: linking to article on quantization (uhd)
+2014-06-23T00:28:00 - Late-night bugfix on financial RL environment (uhd)
