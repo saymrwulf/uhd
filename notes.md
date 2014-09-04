@@ -17,3 +17,4 @@
 2014-06-23T06:57:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2014-09-05T19:04:00 - Late-night bugfix on financial RL environment (uhd)
 2014-09-05T03:29:00 - Late-night bugfix on financial RL environment (uhd)
+2014-09-05T00:04:00 - Minor doc updates: linking to article on quantization (uhd)
