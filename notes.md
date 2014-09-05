@@ -15,3 +15,4 @@
 2014-06-23T00:28:00 - Late-night bugfix on financial RL environment (uhd)
 2014-06-23T07:48:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2014-06-23T06:57:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2014-09-05T19:04:00 - Late-night bugfix on financial RL environment (uhd)
