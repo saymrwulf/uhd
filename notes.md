@@ -18,3 +18,4 @@
 2014-09-05T19:04:00 - Late-night bugfix on financial RL environment (uhd)
 2014-09-05T03:29:00 - Late-night bugfix on financial RL environment (uhd)
 2014-09-05T00:04:00 - Minor doc updates: linking to article on quantization (uhd)
+2014-09-05T07:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
