@@ -25,3 +25,4 @@
 2014-10-02T06:42:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2014-10-06T18:30:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2014-10-23T08:14:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
+2014-12-02T06:27:00 - Minor doc updates: linking to article on quantization (uhd)
