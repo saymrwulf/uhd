@@ -29,3 +29,4 @@
 2014-12-02T17:21:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2014-12-02T19:35:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2014-12-02T04:49:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2015-01-12T17:27:00 - Quick fix, referencing a known issue from the official repo (uhd)
