@@ -31,3 +31,4 @@
 2014-12-02T04:49:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2015-01-12T17:27:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2015-01-12T02:01:00 - Implementing approach from a new paper read last night (uhd)
+2015-01-12T01:46:00 - Late-night bugfix on financial RL environment (uhd)
