@@ -35,3 +35,4 @@
 2015-01-12T23:43:00 - Implementing approach from a new paper read last night (uhd)
 2015-02-20T19:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2015-03-23T01:58:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2015-03-23T02:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
