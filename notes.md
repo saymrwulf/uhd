@@ -40,3 +40,4 @@
 2015-03-23T06:32:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2015-03-30T06:08:00 - Refactor for clarity, might break a few tests though (uhd)
 2015-03-30T04:12:00 - Refactor for clarity, might break a few tests though (uhd)
+2015-04-18T02:25:00 - Late-night bugfix on financial RL environment (uhd)
