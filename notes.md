@@ -45,3 +45,4 @@
 2015-06-23T02:25:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2015-08-28T23:30:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2015-08-28T07:15:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2015-08-28T03:32:00 - Implementing approach from a new paper read last night (uhd)
