@@ -47,3 +47,4 @@
 2015-08-28T07:15:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2015-08-28T03:32:00 - Implementing approach from a new paper read last night (uhd)
 2015-10-02T06:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
+2015-10-02T17:07:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
