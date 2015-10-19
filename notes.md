@@ -49,3 +49,4 @@
 2015-10-02T06:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2015-10-02T17:07:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2015-10-20T08:40:00 - Minor doc updates: linking to article on quantization (uhd)
+2015-10-20T00:27:00 - Late-night bugfix on financial RL environment (uhd)
