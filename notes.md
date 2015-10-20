@@ -51,3 +51,4 @@
 2015-10-20T08:40:00 - Minor doc updates: linking to article on quantization (uhd)
 2015-10-20T00:27:00 - Late-night bugfix on financial RL environment (uhd)
 2015-10-20T00:52:00 - Minor doc updates: linking to article on quantization (uhd)
+2015-10-20T19:57:00 - Refactor for clarity, might break a few tests though (uhd)
