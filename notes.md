@@ -54,3 +54,4 @@
 2015-10-20T19:57:00 - Refactor for clarity, might break a few tests though (uhd)
 2015-11-27T21:04:00 - Implementing approach from a new paper read last night (uhd)
 2015-11-27T22:48:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
+2015-11-27T05:05:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
