@@ -56,3 +56,4 @@
 2015-11-27T22:48:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2015-11-27T05:05:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2015-11-27T21:21:00 - Implementing approach from a new paper read last night (uhd)
+2015-12-02T00:20:00 - Minor doc updates: linking to article on quantization (uhd)
