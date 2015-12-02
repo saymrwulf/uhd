@@ -57,3 +57,4 @@
 2015-11-27T05:05:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2015-11-27T21:21:00 - Implementing approach from a new paper read last night (uhd)
 2015-12-02T00:20:00 - Minor doc updates: linking to article on quantization (uhd)
+2015-12-02T08:50:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
