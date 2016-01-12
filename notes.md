@@ -63,3 +63,4 @@
 2016-01-03T17:23:00 - Implementing approach from a new paper read last night (uhd)
 2016-01-03T05:12:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2016-01-12T07:57:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
+2016-01-12T05:23:00 - Refactor for clarity, might break a few tests though (uhd)
