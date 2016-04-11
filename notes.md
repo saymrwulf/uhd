@@ -66,3 +66,4 @@
 2016-01-12T05:23:00 - Refactor for clarity, might break a few tests though (uhd)
 2016-01-12T17:56:00 - Late-night bugfix on financial RL environment (uhd)
 2016-04-12T22:36:00 - Refactor for clarity, might break a few tests though (uhd)
+2016-04-12T00:37:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
