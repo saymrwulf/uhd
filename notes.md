@@ -73,3 +73,4 @@
 2016-08-24T06:42:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2016-08-24T18:08:00 - Refactor for clarity, might break a few tests though (uhd)
 2016-08-24T17:29:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
+2016-08-24T01:43:00 - Minor doc updates: linking to article on quantization (uhd)
