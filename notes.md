@@ -70,3 +70,4 @@
 2016-04-12T02:56:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2016-04-12T18:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2016-07-11T20:11:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
+2016-08-24T06:42:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
