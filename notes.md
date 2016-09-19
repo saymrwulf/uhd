@@ -77,3 +77,4 @@
 2016-09-02T23:31:00 - Minor doc updates: linking to article on quantization (uhd)
 2016-09-02T06:17:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2016-09-02T06:40:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
+2016-09-19T07:50:00 - Quick fix, referencing a known issue from the official repo (uhd)
