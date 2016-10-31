@@ -83,3 +83,4 @@
 2016-10-23T04:20:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2016-10-23T02:48:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2016-10-23T20:31:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
+2016-10-31T03:37:00 - Late-night bugfix on financial RL environment (uhd)
