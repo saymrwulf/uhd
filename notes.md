@@ -85,3 +85,4 @@
 2016-10-23T20:31:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2016-10-31T03:37:00 - Late-night bugfix on financial RL environment (uhd)
 2016-10-31T07:44:00 - Minor doc updates: linking to article on quantization (uhd)
+2016-11-06T23:28:00 - Implementing approach from a new paper read last night (uhd)
