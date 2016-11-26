@@ -87,3 +87,4 @@
 2016-10-31T07:44:00 - Minor doc updates: linking to article on quantization (uhd)
 2016-11-06T23:28:00 - Implementing approach from a new paper read last night (uhd)
 2016-11-06T08:59:00 - Minor doc updates: linking to article on quantization (uhd)
+2016-11-26T02:47:00 - Implementing approach from a new paper read last night (uhd)
