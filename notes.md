@@ -92,3 +92,4 @@
 2016-11-26T02:58:00 - Refactor for clarity, might break a few tests though (uhd)
 2016-11-26T04:23:00 - Refactor for clarity, might break a few tests though (uhd)
 2016-11-28T03:35:00 - Late-night bugfix on financial RL environment (uhd)
+2016-11-28T08:40:00 - Implementing approach from a new paper read last night (uhd)
