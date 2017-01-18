@@ -96,3 +96,4 @@
 2016-11-28T22:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2017-01-18T19:42:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2017-01-18T08:37:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2017-01-18T23:49:00 - Refactor for clarity, might break a few tests though (uhd)
