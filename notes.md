@@ -98,3 +98,4 @@
 2017-01-18T08:37:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2017-01-18T23:49:00 - Refactor for clarity, might break a few tests though (uhd)
 2017-01-18T04:57:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2017-01-27T17:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
