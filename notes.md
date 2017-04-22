@@ -111,3 +111,4 @@
 2017-04-22T05:51:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2017-04-22T20:26:00 - Refactor for clarity, might break a few tests though (uhd)
 2017-04-22T23:10:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
+2017-04-22T02:08:00 - Late-night bugfix on financial RL environment (uhd)
