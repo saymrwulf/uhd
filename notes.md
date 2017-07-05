@@ -117,3 +117,4 @@
 2017-05-27T18:09:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2017-06-16T17:35:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2017-06-16T06:08:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2017-07-05T23:02:00 - Minor doc updates: linking to article on quantization (uhd)
