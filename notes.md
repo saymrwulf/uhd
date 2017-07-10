@@ -120,3 +120,4 @@
 2017-07-05T23:02:00 - Minor doc updates: linking to article on quantization (uhd)
 2017-07-05T05:16:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2017-07-05T18:46:00 - Late-night bugfix on financial RL environment (uhd)
+2017-07-10T06:45:00 - Late-night bugfix on financial RL environment (uhd)
