@@ -123,3 +123,4 @@
 2017-07-10T06:45:00 - Late-night bugfix on financial RL environment (uhd)
 2017-07-10T05:56:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2017-07-12T07:30:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2017-07-12T17:15:00 - Refactor for clarity, might break a few tests though (uhd)
