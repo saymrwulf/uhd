@@ -127,3 +127,4 @@
 2017-07-12T02:01:00 - Late-night bugfix on financial RL environment (uhd)
 2017-07-12T07:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2017-09-18T01:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
+2017-10-02T00:43:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
