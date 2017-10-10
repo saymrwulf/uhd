@@ -129,3 +129,4 @@
 2017-09-18T01:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2017-10-02T00:43:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2017-10-02T05:44:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
+2017-10-10T22:24:00 - Minor doc updates: linking to article on quantization (uhd)
