@@ -134,3 +134,4 @@
 2017-10-10T04:19:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2017-10-10T20:56:00 - Late-night bugfix on financial RL environment (uhd)
 2017-10-12T17:37:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2017-10-27T22:31:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
