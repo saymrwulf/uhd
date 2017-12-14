@@ -136,3 +136,4 @@
 2017-10-12T17:37:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2017-10-27T22:31:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2017-10-27T03:15:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
+2017-12-14T08:12:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
