@@ -138,3 +138,4 @@
 2017-10-27T03:15:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2017-12-14T08:12:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2017-12-17T08:11:00 - Late-night bugfix on financial RL environment (uhd)
+2017-12-31T07:59:00 - Implementing approach from a new paper read last night (uhd)
