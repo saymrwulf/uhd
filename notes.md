@@ -142,3 +142,4 @@
 2017-12-31T03:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2018-02-17T22:40:00 - Minor doc updates: linking to article on quantization (uhd)
 2018-02-17T08:54:00 - Refactor for clarity, might break a few tests though (uhd)
+2018-02-17T21:59:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
