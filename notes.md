@@ -144,3 +144,4 @@
 2018-02-17T08:54:00 - Refactor for clarity, might break a few tests though (uhd)
 2018-02-17T21:59:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2018-03-07T07:29:00 - Late-night bugfix on financial RL environment (uhd)
+2018-03-07T08:26:00 - Implementing approach from a new paper read last night (uhd)
