@@ -146,3 +146,4 @@
 2018-03-07T07:29:00 - Late-night bugfix on financial RL environment (uhd)
 2018-03-07T08:26:00 - Implementing approach from a new paper read last night (uhd)
 2018-04-29T17:35:00 - Implementing approach from a new paper read last night (uhd)
+2018-04-29T21:36:00 - Minor doc updates: linking to article on quantization (uhd)
