@@ -153,3 +153,4 @@
 2018-05-07T18:21:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2018-05-07T21:19:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2018-05-31T21:28:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2018-05-31T04:25:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
