@@ -157,3 +157,4 @@
 2018-05-31T23:41:00 - Late-night bugfix on financial RL environment (uhd)
 2018-06-20T17:30:00 - Late-night bugfix on financial RL environment (uhd)
 2018-06-28T03:04:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2018-08-26T07:46:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
