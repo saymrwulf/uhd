@@ -163,3 +163,4 @@
 2018-09-04T07:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2018-09-04T08:18:00 - Refactor for clarity, might break a few tests though (uhd)
 2018-09-04T19:07:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2018-10-24T00:27:00 - Late-night bugfix on financial RL environment (uhd)
