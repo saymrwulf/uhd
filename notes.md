@@ -168,3 +168,4 @@
 2018-10-24T00:17:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2018-11-19T18:05:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2018-11-19T01:22:00 - Implementing approach from a new paper read last night (uhd)
+2018-11-19T20:06:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
