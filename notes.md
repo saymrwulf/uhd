@@ -170,3 +170,4 @@
 2018-11-19T01:22:00 - Implementing approach from a new paper read last night (uhd)
 2018-11-19T20:06:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2018-12-04T23:08:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2018-12-04T21:19:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
