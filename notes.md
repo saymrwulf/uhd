@@ -175,3 +175,4 @@
 2018-12-04T00:29:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2019-03-07T20:45:00 - Refactor for clarity, might break a few tests though (uhd)
 2019-03-24T02:17:00 - Late-night bugfix on financial RL environment (uhd)
+2019-03-24T08:55:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
