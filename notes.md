@@ -179,3 +179,4 @@
 2019-06-01T21:17:00 - Implementing approach from a new paper read last night (uhd)
 2019-06-01T22:41:00 - Minor doc updates: linking to article on quantization (uhd)
 2019-06-01T06:04:00 - Late-night bugfix on financial RL environment (uhd)
+2019-06-05T05:44:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
