@@ -182,3 +182,4 @@
 2019-06-05T05:44:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2019-06-05T17:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2019-06-05T17:52:00 - Minor doc updates: linking to article on quantization (uhd)
+2019-07-21T02:58:00 - Late-night bugfix on financial RL environment (uhd)
