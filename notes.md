@@ -183,3 +183,4 @@
 2019-06-05T17:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2019-06-05T17:52:00 - Minor doc updates: linking to article on quantization (uhd)
 2019-07-21T02:58:00 - Late-night bugfix on financial RL environment (uhd)
+2019-08-06T07:52:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
