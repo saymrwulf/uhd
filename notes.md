@@ -190,3 +190,4 @@
 2019-08-20T07:16:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2019-08-20T20:59:00 - Minor doc updates: linking to article on quantization (uhd)
 2019-08-20T20:43:00 - Implementing approach from a new paper read last night (uhd)
+2019-10-16T05:27:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
