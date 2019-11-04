@@ -193,3 +193,4 @@
 2019-10-16T05:27:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2019-10-16T04:13:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2019-10-16T05:17:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2019-11-04T02:10:00 - Minor doc updates: linking to article on quantization (uhd)
