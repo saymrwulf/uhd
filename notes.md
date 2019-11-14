@@ -196,3 +196,4 @@
 2019-11-04T02:10:00 - Minor doc updates: linking to article on quantization (uhd)
 2019-11-04T05:21:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2019-11-04T04:53:00 - Minor doc updates: linking to article on quantization (uhd)
+2019-11-14T06:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
