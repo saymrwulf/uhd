@@ -198,3 +198,4 @@
 2019-11-04T04:53:00 - Minor doc updates: linking to article on quantization (uhd)
 2019-11-14T06:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2019-12-18T21:07:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
+2020-01-06T08:32:00 - Minor doc updates: linking to article on quantization (uhd)
