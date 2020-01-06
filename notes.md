@@ -201,3 +201,4 @@
 2020-01-06T08:32:00 - Minor doc updates: linking to article on quantization (uhd)
 2020-01-06T17:09:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2020-01-06T01:11:00 - Minor doc updates: linking to article on quantization (uhd)
+2020-01-06T21:07:00 - Minor doc updates: linking to article on quantization (uhd)
