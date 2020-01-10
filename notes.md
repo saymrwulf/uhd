@@ -203,3 +203,4 @@
 2020-01-06T01:11:00 - Minor doc updates: linking to article on quantization (uhd)
 2020-01-06T21:07:00 - Minor doc updates: linking to article on quantization (uhd)
 2020-01-10T03:58:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
+2020-01-10T17:35:00 - Implementing approach from a new paper read last night (uhd)
