@@ -206,3 +206,4 @@
 2020-01-10T17:35:00 - Implementing approach from a new paper read last night (uhd)
 2020-01-10T23:04:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2020-01-25T00:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
+2020-02-08T18:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
