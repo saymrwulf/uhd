@@ -208,3 +208,4 @@
 2020-01-25T00:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2020-02-08T18:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2020-02-13T22:30:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2020-02-13T00:11:00 - Implementing approach from a new paper read last night (uhd)
