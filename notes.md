@@ -211,3 +211,4 @@
 2020-02-13T00:11:00 - Implementing approach from a new paper read last night (uhd)
 2020-02-24T20:03:00 - Implementing approach from a new paper read last night (uhd)
 2020-02-24T02:11:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
+2020-04-14T03:35:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
