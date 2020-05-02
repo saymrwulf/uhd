@@ -215,3 +215,4 @@
 2020-04-14T21:11:00 - Minor doc updates: linking to article on quantization (uhd)
 2020-04-14T04:13:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2020-04-14T07:24:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2020-05-02T03:11:00 - Quick fix, referencing a known issue from the official repo (uhd)
