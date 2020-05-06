@@ -219,3 +219,4 @@
 2020-05-02T19:53:00 - Late-night bugfix on financial RL environment (uhd)
 2020-05-02T03:40:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2020-05-06T01:03:00 - Refactor for clarity, might break a few tests though (uhd)
+2020-05-06T04:53:00 - Implementing approach from a new paper read last night (uhd)
