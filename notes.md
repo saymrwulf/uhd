@@ -221,3 +221,4 @@
 2020-05-06T01:03:00 - Refactor for clarity, might break a few tests though (uhd)
 2020-05-06T04:53:00 - Implementing approach from a new paper read last night (uhd)
 2020-05-06T02:00:00 - Refactor for clarity, might break a few tests though (uhd)
+2020-07-18T23:27:00 - Minor doc updates: linking to article on quantization (uhd)
