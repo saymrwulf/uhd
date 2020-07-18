@@ -224,3 +224,4 @@
 2020-07-18T23:27:00 - Minor doc updates: linking to article on quantization (uhd)
 2020-07-18T22:42:00 - Late-night bugfix on financial RL environment (uhd)
 2020-07-18T08:27:00 - Implementing approach from a new paper read last night (uhd)
+2020-07-18T07:24:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
