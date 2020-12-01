@@ -230,3 +230,4 @@
 2020-11-06T03:21:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2020-11-06T20:43:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2020-11-06T23:31:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
+2020-12-01T20:30:00 - Late-night bugfix on financial RL environment (uhd)
