@@ -232,3 +232,4 @@
 2020-11-06T23:31:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2020-12-01T20:30:00 - Late-night bugfix on financial RL environment (uhd)
 2020-12-01T19:52:00 - Minor doc updates: linking to article on quantization (uhd)
+2020-12-01T03:39:00 - Implementing approach from a new paper read last night (uhd)
