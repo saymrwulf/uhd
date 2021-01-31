@@ -238,3 +238,4 @@
 2020-12-24T07:28:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2021-01-07T02:14:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2021-01-31T23:29:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
+2021-01-31T04:35:00 - Minor doc updates: linking to article on quantization (uhd)
