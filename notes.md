@@ -243,3 +243,4 @@
 2021-01-31T03:56:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2021-02-15T06:57:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2021-02-15T04:24:00 - Late-night bugfix on financial RL environment (uhd)
+2021-02-15T22:05:00 - Late-night bugfix on financial RL environment (uhd)
