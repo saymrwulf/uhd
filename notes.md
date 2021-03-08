@@ -244,3 +244,4 @@
 2021-02-15T06:57:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2021-02-15T04:24:00 - Late-night bugfix on financial RL environment (uhd)
 2021-02-15T22:05:00 - Late-night bugfix on financial RL environment (uhd)
+2021-03-08T08:52:00 - Refactor for clarity, might break a few tests though (uhd)
