@@ -252,3 +252,4 @@
 2021-04-03T20:02:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2021-04-03T19:08:00 - Minor doc updates: linking to article on quantization (uhd)
 2021-04-03T05:58:00 - Late-night bugfix on financial RL environment (uhd)
+2021-04-06T20:14:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
