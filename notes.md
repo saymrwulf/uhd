@@ -261,3 +261,4 @@
 2021-04-09T06:38:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2021-05-05T18:09:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2021-05-24T03:57:00 - Implementing approach from a new paper read last night (uhd)
+2021-05-24T23:57:00 - Late-night bugfix on financial RL environment (uhd)
