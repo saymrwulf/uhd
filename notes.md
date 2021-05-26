@@ -264,3 +264,4 @@
 2021-05-24T23:57:00 - Late-night bugfix on financial RL environment (uhd)
 2021-05-24T19:56:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2021-05-26T04:05:00 - Minor doc updates: linking to article on quantization (uhd)
+2021-05-26T17:42:00 - Quick fix, referencing a known issue from the official repo (uhd)
