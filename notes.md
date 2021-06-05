@@ -269,3 +269,4 @@
 2021-05-29T04:39:00 - Minor doc updates: linking to article on quantization (uhd)
 2021-06-05T05:12:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2021-06-05T07:32:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
+2021-06-05T03:54:00 - Quick fix, referencing a known issue from the official repo (uhd)
