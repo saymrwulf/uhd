@@ -272,3 +272,4 @@
 2021-06-05T03:54:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2021-08-13T18:37:00 - Refactor for clarity, might break a few tests though (uhd)
 2021-08-13T04:34:00 - Minor doc updates: linking to article on quantization (uhd)
+2021-08-13T00:30:00 - Implementing approach from a new paper read last night (uhd)
