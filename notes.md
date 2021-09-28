@@ -276,3 +276,4 @@
 2021-08-13T02:07:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2021-08-30T18:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2021-08-30T07:14:00 - Implementing approach from a new paper read last night (uhd)
+2021-09-28T18:57:00 - Minor doc updates: linking to article on quantization (uhd)
