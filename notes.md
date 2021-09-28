@@ -279,3 +279,4 @@
 2021-09-28T18:57:00 - Minor doc updates: linking to article on quantization (uhd)
 2021-09-28T23:54:00 - Late-night bugfix on financial RL environment (uhd)
 2021-09-28T23:31:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
+2021-09-28T07:38:00 - Refactor for clarity, might break a few tests though (uhd)
