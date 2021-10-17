@@ -284,3 +284,4 @@
 2021-09-29T02:23:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2021-10-03T18:36:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2021-10-17T22:03:00 - Implementing approach from a new paper read last night (uhd)
+2021-10-17T19:02:00 - Implementing approach from a new paper read last night (uhd)
