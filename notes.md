@@ -290,3 +290,4 @@
 2021-11-09T03:27:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2021-11-09T22:17:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2021-12-10T22:27:00 - Refactor for clarity, might break a few tests though (uhd)
+2021-12-10T00:20:00 - Minor doc updates: linking to article on quantization (uhd)
