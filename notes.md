@@ -295,3 +295,4 @@
 2022-01-12T21:52:00 - Minor doc updates: linking to article on quantization (uhd)
 2022-01-12T21:36:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2022-01-12T18:15:00 - Implementing approach from a new paper read last night (uhd)
+2022-04-19T07:47:00 - Implementing approach from a new paper read last night (uhd)
