@@ -297,3 +297,4 @@
 2022-01-12T18:15:00 - Implementing approach from a new paper read last night (uhd)
 2022-04-19T07:47:00 - Implementing approach from a new paper read last night (uhd)
 2022-05-25T17:29:00 - Minor doc updates: linking to article on quantization (uhd)
+2022-05-25T22:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
