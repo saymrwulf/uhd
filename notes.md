@@ -301,3 +301,4 @@
 2022-06-19T18:26:00 - Minor doc updates: linking to article on quantization (uhd)
 2022-06-19T23:00:00 - Late-night bugfix on financial RL environment (uhd)
 2022-06-19T07:26:00 - Minor doc updates: linking to article on quantization (uhd)
+2022-06-19T00:40:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
