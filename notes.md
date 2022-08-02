@@ -304,3 +304,4 @@
 2022-06-19T00:40:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2022-08-02T06:51:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2022-08-02T06:50:00 - Late-night bugfix on financial RL environment (uhd)
+2022-08-02T02:20:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
