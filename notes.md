@@ -310,3 +310,4 @@
 2022-08-21T06:58:00 - Implementing approach from a new paper read last night (uhd)
 2022-09-30T06:52:00 - Late-night bugfix on financial RL environment (uhd)
 2022-09-30T00:20:00 - Late-night bugfix on financial RL environment (uhd)
+2022-10-07T21:37:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
