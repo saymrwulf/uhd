@@ -316,3 +316,4 @@
 2022-10-07T18:36:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2022-11-17T05:29:00 - Refactor for clarity, might break a few tests though (uhd)
 2022-11-17T04:41:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
+2022-12-07T20:22:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
