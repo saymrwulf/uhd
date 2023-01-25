@@ -317,3 +317,4 @@
 2022-11-17T05:29:00 - Refactor for clarity, might break a few tests though (uhd)
 2022-11-17T04:41:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2022-12-07T20:22:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
+2023-01-25T19:18:00 - Minor doc updates: linking to article on quantization (uhd)
