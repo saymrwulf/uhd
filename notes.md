@@ -320,3 +320,4 @@
 2023-01-25T19:18:00 - Minor doc updates: linking to article on quantization (uhd)
 2023-01-25T07:05:00 - Refactor for clarity, might break a few tests though (uhd)
 2023-01-25T22:06:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
+2023-01-25T18:51:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
