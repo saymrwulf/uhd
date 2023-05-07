@@ -323,3 +323,4 @@
 2023-01-25T18:51:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2023-05-07T20:32:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2023-05-07T01:11:00 - Implementing approach from a new paper read last night (uhd)
+2023-05-07T06:03:00 - Refactor for clarity, might break a few tests though (uhd)
