@@ -325,3 +325,4 @@
 2023-05-07T01:11:00 - Implementing approach from a new paper read last night (uhd)
 2023-05-07T06:03:00 - Refactor for clarity, might break a few tests though (uhd)
 2023-05-29T03:14:00 - Refactor for clarity, might break a few tests though (uhd)
+2023-05-29T21:48:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
