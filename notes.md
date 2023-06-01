@@ -328,3 +328,4 @@
 2023-05-29T21:48:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2023-06-01T02:26:00 - Late-night bugfix on financial RL environment (uhd)
 2023-06-01T21:30:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
+2023-06-01T06:43:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
