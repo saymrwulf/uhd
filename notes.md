@@ -338,3 +338,4 @@
 2023-10-11T02:26:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2023-10-11T17:48:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2023-10-11T03:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
+2023-10-15T00:33:00 - Minor doc updates: linking to article on quantization (uhd)
