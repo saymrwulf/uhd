@@ -339,3 +339,4 @@
 2023-10-11T17:48:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2023-10-11T03:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2023-10-15T00:33:00 - Minor doc updates: linking to article on quantization (uhd)
+2023-10-15T02:32:00 - Implementing approach from a new paper read last night (uhd)
