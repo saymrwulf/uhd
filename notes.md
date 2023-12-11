@@ -342,3 +342,4 @@
 2023-10-15T02:32:00 - Implementing approach from a new paper read last night (uhd)
 2023-12-11T02:15:00 - Minor doc updates: linking to article on quantization (uhd)
 2023-12-11T18:04:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2023-12-11T03:08:00 - Late-night bugfix on financial RL environment (uhd)
