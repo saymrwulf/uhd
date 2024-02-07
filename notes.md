@@ -345,3 +345,4 @@
 2023-12-11T03:08:00 - Late-night bugfix on financial RL environment (uhd)
 2024-02-08T22:24:00 - Refactor for clarity, might break a few tests though (uhd)
 2024-02-08T17:21:00 - Implementing approach from a new paper read last night (uhd)
+2024-02-08T00:35:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
