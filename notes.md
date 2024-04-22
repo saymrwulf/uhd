@@ -352,3 +352,4 @@
 2024-01-21T08:41:00 - Late-night bugfix on financial RL environment (uhd)
 2024-04-19T01:21:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (uhd)
 2024-04-22T18:52:00 - Implementing approach from a new paper read last night (uhd)
+2024-04-22T21:33:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
