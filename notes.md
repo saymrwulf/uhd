@@ -354,3 +354,4 @@
 2024-04-22T18:52:00 - Implementing approach from a new paper read last night (uhd)
 2024-04-22T21:33:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
 2024-04-22T05:48:00 - Late-night bugfix on financial RL environment (uhd)
+2024-04-25T17:01:00 - Refactor for clarity, might break a few tests though (uhd)
