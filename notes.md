@@ -367,3 +367,4 @@
 2024-07-25T22:26:00 - Late-night bugfix on financial RL environment (uhd)
 2024-07-25T17:59:00 - Minor doc updates: linking to article on quantization (uhd)
 2024-08-04T08:50:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
+2024-08-04T03:04:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (uhd)
