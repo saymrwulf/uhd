@@ -371,3 +371,4 @@
 2024-08-04T02:50:00 - Minor doc updates: linking to article on quantization (uhd)
 2024-08-09T06:45:00 - Minor doc updates: linking to article on quantization (uhd)
 2024-08-09T07:50:00 - Late-night bugfix on financial RL environment (uhd)
+2024-08-09T08:54:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
