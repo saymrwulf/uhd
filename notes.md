@@ -374,3 +374,4 @@
 2024-08-09T08:54:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (uhd)
 2024-08-09T18:36:00 - Refactor for clarity, might break a few tests though (uhd)
 2024-08-12T01:15:00 - Refactor for clarity, might break a few tests though (uhd)
+2024-08-21T06:45:00 - Minor doc updates: linking to article on quantization (uhd)
