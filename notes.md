@@ -380,3 +380,4 @@
 2024-09-27T20:39:00 - Refactor for clarity, might break a few tests though (uhd)
 2024-09-27T08:01:00 - Quick fix, referencing a known issue from the official repo (uhd)
 2024-09-27T18:34:00 - Quick fix, referencing a known issue from the official repo (uhd)
+2024-11-27T03:46:00 - Quick fix, referencing a known issue from the official repo (uhd)
